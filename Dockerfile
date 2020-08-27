@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:jre-14.0.2_12-alpine
+FROM adoptopenjdk/openjdk14:jre-14.0.2_12-alpine
 
 MAINTAINER CraftMania.cz, <services@craftmania.cz>
 
